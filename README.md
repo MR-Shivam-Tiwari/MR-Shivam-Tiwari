@@ -30,9 +30,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I learn new technologies like game development.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shivam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-tiwari-389bab255/)
 
 </div>
 
@@ -66,12 +66,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-tiwari&theme=dark&hide_border=true)" alt="mr-shivam-tiwari" /></p>
-  
+<div align="left" >
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-shivam-tiwari&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mr-shivam-tiwari" /></p>
+ 
 </div>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-shivam-tiwari&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mr-shivam-tiwari" /></p>
+  
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-shivam-tiwari&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mr-shivam-tiwari" /></p>
+   
+</div>
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mr-shivam-tiwari&theme=highcontrast)](https://git.io/streak-stats)
+
+
+<div>
+  
+</div>
+
+</div>
+
+<div>
+
 </div>
 
 </div>
