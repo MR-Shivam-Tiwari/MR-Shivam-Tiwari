@@ -60,5 +60,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
   
 </div>
+<div align="left">
+---
+
+### :fire: My Stats :
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-tiwari&theme=dark&background=000000)" alt="mr-shivam-tiwari" /></p>
+  
+</div>
 
 </div>
