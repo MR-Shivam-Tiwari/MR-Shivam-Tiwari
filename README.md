@@ -72,7 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 <div>
   
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-shivam-tiwari&show_icons=true&locale=en&theme=vision-friendly-dark" alt="mr-shivam-tiwari" /></p>
+   
    
 </div>
 
