@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<hr/>
+<hr />
 <div align="left">
 
 
@@ -36,9 +36,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 
-
+<hr />
 <div align="left">
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -60,8 +60,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
   
 </div>
+ <hr />
 <div align="left">
----
+
 
 ### :fire: My Stats :
 
