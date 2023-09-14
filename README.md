@@ -69,5 +69,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-shivam-tiwari&theme=dark&background=000000)" alt="mr-shivam-tiwari" /></p>
   
 </div>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-shivam-tiwari&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mr-shivam-tiwari" /></p>
+</div>
 
 </div>
