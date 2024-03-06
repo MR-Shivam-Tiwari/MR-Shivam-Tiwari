@@ -72,7 +72,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    
 </div>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mr-shivam-tiwari&theme=highcontrast)](https://git.io/streak-stats)
 
 
 <div>
