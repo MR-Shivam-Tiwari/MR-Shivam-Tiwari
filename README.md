@@ -60,8 +60,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <div>
- ### 😂 Random Dev Meme
-                <img src='https://randommeme-five.vercel.app/' style="height: 400px;" />
+### 😂 Random Dev Meme
+![Random Dev Meme](https://randommeme-five.vercel.app/)
+
 
 
 
