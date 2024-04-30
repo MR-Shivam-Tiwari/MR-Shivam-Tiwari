@@ -60,8 +60,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <div>
-  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ ### ✍️ Random Dev Quote
+![Random Dev Quote](https://programming-quotes-api.herokuapp.com/quotes/random)
+
 
 </div>
 
