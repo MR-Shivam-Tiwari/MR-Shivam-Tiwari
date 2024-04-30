@@ -51,7 +51,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div>
   
-   
+   ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MR-Shivam-Tiwari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
    
 </div>
 
