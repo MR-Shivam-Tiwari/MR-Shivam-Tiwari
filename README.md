@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <div>
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://programming-quotes-api.herokuapp.com/quotes/random)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
 
 
