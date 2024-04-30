@@ -45,12 +45,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div align="left">
 
 
-### :fire: My Stats :
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MR-Shivam-Tiwari&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=MR-Shivam-Tiwari&theme=merko&hide_border=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Shivam-Tiwari&theme=merko&hide_border=false&layout=compact)
 
-<div align="left" >
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-shivam-tiwari&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="mr-shivam-tiwari" /></p>
- 
-</div>
 <div>
   
    
