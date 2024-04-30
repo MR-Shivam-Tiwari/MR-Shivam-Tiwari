@@ -46,8 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MR-Shivam-Tiwari&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=MR-Shivam-Tiwari&theme=merko&hide_border=false)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=MR-Shivam-Tiwari&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Shivam-Tiwari&theme=merko&hide_border=false&layout=compact)
 
 <div>
