@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Coding gif"/>
+</div>
 
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shivam-tiwari-389bab255/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,20 +13,21 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=mr-shivam-tiwari&style=flat-square&color=blue" alt=""/>
-<h1>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-shivam-tiwari&style=flat-square&color=blue" alt="profile views"/>
+</div>
+
+<h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Shivam Tiwari
 </h1>
 
 <hr />
-<div align="left">
-
 
 # 💫 About Me
 Hey there! I'm **Shivam Tiwari** – a passionate **Software Developer** from 🇮🇳 India.  
 I enjoy building impactful **web applications** and constantly exploring new tech to sharpen my skills.  
-
 
 ---
 
@@ -38,7 +39,6 @@ I enjoy building impactful **web applications** and constantly exploring new tec
 ---
 
 ## 📬 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-tiwari-389bab255/" target="_blank">
     <img src="https://img.shields.io/badge/-Shivam_Tiwari-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -55,7 +55,6 @@ I enjoy building impactful **web applications** and constantly exploring new tec
 
 ✨ *"Code. Create. Contribute."*  
 
- 
 
 </div>
 
