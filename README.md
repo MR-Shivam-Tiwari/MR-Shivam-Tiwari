@@ -22,24 +22,38 @@
 <div align="left">
 
 
-# 💫 About Me:
+# 💫 About Me
 Hey there! I'm **Shivam Tiwari** – a passionate **Software Developer** from 🇮🇳 India.  
 I enjoy building impactful **web applications** and constantly exploring new tech to sharpen my skills.  
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
-## 🚀 What I Do
-- 🔭 Currently working as a **Software Engineer**, contributing to **frontend & backend** development.  
-- 🌱 Exploring **Technical Content Writing** and sharing knowledge.  
-- ⚡ In free time, I dive into **Game Development** and experiment with new technologies.  
+---
 
-## 📬 Connect With Me
-[![Linkedin Badge](https://img.shields.io/badge/-Shivam_Tiwari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-tiwari-389bab255/)  
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+## 🚀 What I Do
+- 🔭 Working as a **Software Engineer**, contributing to **frontend & backend** development.  
+- 🌱 Exploring **Technical Content Writing** and sharing knowledge.  
+- ✍️ In my free time, I love writing **Manga Stories** and experimenting with creative ideas.  
 
 ---
-✨ _"Code. Create. Contribute."_  
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-tiwari-389bab255/" target="_blank">
+    <img src="https://img.shields.io/badge/-Shivam_Tiwari-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ *"Code. Create. Contribute."*  
 
  
 
