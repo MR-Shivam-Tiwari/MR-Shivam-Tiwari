@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shivam-tiwari-389bab255/">
@@ -26,7 +27,6 @@
 Hey there! I'm **Shivam Tiwari** – a passionate **Software Developer** from 🇮🇳 India.  
 I enjoy building impactful **web applications** and constantly exploring new tech to sharpen my skills.  
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 ---
 
