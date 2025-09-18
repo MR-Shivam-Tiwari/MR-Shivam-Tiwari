@@ -26,7 +26,7 @@
 Hey there! I'm **Shivam Tiwari** – a passionate **Software Developer** from 🇮🇳 India.  
 I enjoy building impactful **web applications** and constantly exploring new tech to sharpen my skills.  
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 ---
 
