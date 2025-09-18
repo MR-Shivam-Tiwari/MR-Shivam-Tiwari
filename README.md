@@ -22,15 +22,24 @@
 <div align="left">
 
 
- # 💫 About Me:
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+# 💫 About Me:
+Hey there! I'm **Shivam Tiwari** – a passionate **Software Developer** from 🇮🇳 India.  
+I enjoy building impactful **web applications** and constantly exploring new tech to sharpen my skills.  
 
-- :seedling: Exploring Technical Content Writing.
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif">
 
-- :zap: In my free time, I learn new technologies like game development.
+## 🚀 What I Do
+- 🔭 Currently working as a **Software Engineer**, contributing to **frontend & backend** development.  
+- 🌱 Exploring **Technical Content Writing** and sharing knowledge.  
+- ⚡ In free time, I dive into **Game Development** and experiment with new technologies.  
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Shivam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-tiwari-389bab255/)
+## 📬 Connect With Me
+[![Linkedin Badge](https://img.shields.io/badge/-Shivam_Tiwari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-tiwari-389bab255/)  
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
+---
+✨ _"Code. Create. Contribute."_  
 
 </div>
 
