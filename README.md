@@ -43,10 +43,10 @@ I enjoy building impactful **web applications** and constantly exploring new tec
   <a href="https://www.linkedin.com/in/shivam-tiwari-389bab255/" target="_blank">
     <img src="https://img.shields.io/badge/-Shivam_Tiwari-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://portfolio.shvx.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:shivamt2023@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
